@@ -1,5 +1,5 @@
 {
-  "name": "sonarlint",
+  "name": "sonarlint-dummy",
   "description": "On-the-fly bug and quality issues detection for JavaScript, Python and PHP",
   "version": "1.0.0-SNAPSHOT",
   "icon": "images/sonarlint_wave_128px.png",
