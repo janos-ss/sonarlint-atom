@@ -1,7 +1,7 @@
 {
   "name": "janos-ss-dummy",
   "description": "On-the-fly bug and quality issues detection for JavaScript, Python and PHP",
-  "version": "0.0.12",
+  "version": "0.0.14",
   "icon": "images/sonarlint_wave_128px.png",
   "publisher": "SonarSource",
   "homepage": "http://www.sonarlint.org/atom/index.html",
