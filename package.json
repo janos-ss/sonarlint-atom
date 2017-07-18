@@ -45,6 +45,7 @@
     "path-exists": "^3.0.0"
   },
   "bundledDependencies": [
+    "sonarlint-atom-files",
     "atom-languageclient",
     "expand-home-dir",
     "find-java-home",
