@@ -37,6 +37,7 @@
     "files"
   ],
   "dependencies": {
+    "sonarlint-atom-files": "github:janos-ss/sonarlint-atom-files#437eadec6a16208f193a362ba60291e83548a378",
     "atom-languageclient": "github:SonarSource/atom-languageclient#0.1.2-1.0.0-2",
     "atom-linter": "^10.0.0",
     "expand-home-dir": "0.0.3",
